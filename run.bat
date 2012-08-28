@@ -1,0 +1,1 @@
+java -jar winstone-0.9.10.jar --httpPort=8089 --commonLibFolder=universidad/WEB-INF/lib --useJasper=true --webroot=universidad
